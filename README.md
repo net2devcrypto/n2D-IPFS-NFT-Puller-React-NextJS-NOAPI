@@ -48,7 +48,7 @@ add n2dpuller folder inside "src" folder
 
 4- Import nftpuller into your desired project page:
 
-Example, in index.js:
+Example, Add in index.js:
     
 import Nftpuller from '../pages/n2dpuller/nftpuller'
 
