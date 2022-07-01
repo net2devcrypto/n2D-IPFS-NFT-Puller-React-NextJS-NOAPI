@@ -4,7 +4,7 @@
     
 🥳🥳NO Private API Required 🥳🥳
 
-Subscribe and follow me to get more amazing content
+Subscribe and follow me to get more amazing content!
 
 Youtube, Instagram, Tiktok : Net2Dev
 
