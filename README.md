@@ -1,4 +1,4 @@
-<a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/n2d-nftpuller/blob/main/nftpuller.png" width="180" height="40"/>
+<a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/n2d-nftpuller/blob/main/nftpuller.png" width="300" height="100"/>
     
 💥💥A React - NextJS NFT IPFS CID Metadata Puller for NFT Info/Image Display - NO Private API Required 🥳🥳
 
