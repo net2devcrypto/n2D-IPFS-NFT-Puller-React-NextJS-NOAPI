@@ -33,11 +33,11 @@ Go to the settings.js file and update accordingly:
 
 █▀ █▀▀ ▀█▀ ▀█▀ █ █▄░█ █▀▀ █▀
 ▄█ ██▄ ░█░ ░█░ █ █░▀█ █▄█ ▄█
-*/                                                            
 
-/*
+    /*
     Input the NFT Contract Address
     */
+    
     export const nftContract = "NFTCONTRACTADDRESS"
 
     /*
@@ -46,6 +46,7 @@ Go to the settings.js file and update accordingly:
     Or Select your testnet
     ethkovan - ethrinkeby - ethropsten - bsctest - polytest
     */
+    
     export var mainnet = eth
 
 
