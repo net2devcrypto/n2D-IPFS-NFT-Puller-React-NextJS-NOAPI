@@ -29,7 +29,7 @@ NextJS
 
 add n2dpuller folder inside "pages" folder
 
-NextJS
+ReactJS
 
 add n2dpuller folder inside "src" folder
 
