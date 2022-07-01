@@ -1,21 +1,8 @@
 <a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/n2d-nftpuller/blob/main/nftpuller.png" width="320" height="110"/>
     
-💥💥A React - NextJS NFT IPFS CID Metadata Puller for NFT Info/Image Display - NO Private API Required 🥳🥳
-
-🅽🅵🆃🅿🆄🅻🅻🅴🆁 v1
-
-A React - NextJS NFT IPFS CID Metadata Puller
-
-With NO Private API Required
-
-Required Dependencies:
-
-npm i ethers
-
-npm i axios
-
-npm i @nextui-org/react
-
+💥💥A React - NextJS NFT IPFS CID Metadata Puller for NFT Info/Image Display💥💥
+    
+🥳🥳NO Private API Required 🥳🥳
 
 Subscribe and follow me to get more amazing content
 
@@ -25,29 +12,54 @@ Github @net2devcrypto
 
 Please donate to: net2dev.eth
 
-Go to the settings.js file and update accordingly:
-
-    /*
-    Input the NFT Contract Address
-    */
     
+TO USE,
+    
+1- Install Required Dependencies:
+
+npm i ethers
+
+npm i axios
+
+npm i @nextui-org/react
+
+2- add the n2dpuller folder in your project folder:
+
+NextJS
+
+add n2dpuller folder inside "pages" folder
+
+NextJS
+
+add n2dpuller folder inside "src" folder
+
+    
+3- Update "settings.js" section with your info accordingly:
+
     export const nftContract = "NFTCONTRACTADDRESS"
 
-    /*
-    Select your mainnet
-    eth - bsc - poly
-    Or Select your testnet
-    ethkovan - ethrinkeby - ethropsten - bsctest - polytest
-    */
-    
     export var mainnet = eth
 
-
-    /*
-    Type the amount of NFT's to display
-    */
     export var displayAmount = 10
 
-    /*
-    CTRL+S to save
-    */
+
+    Save File CTRL+S
+
+
+4- Import nftpuller into your desired project page:
+
+Example, in index.js
+    
+    
+import Nftpuller from '../pages/n2dpuller/nftpuller'
+
+then go to the HTML Section and apply the app to be rendered:
+    
+    return (
+    
+    <Nftpuller/>
+    
+    )
+
+SAVE and ENJOY!
+    
