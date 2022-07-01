@@ -1,5 +1,5 @@
 # n2d-nftpuller
-💥💥A React - NextJS NFT IPFS CID Metadata Puller for Image Display - NO Private API Required 🥳🥳
+💥💥A React - NextJS NFT IPFS CID Metadata Puller for NFT Info/Image Display - NO Private API Required 🥳🥳
 
 🅽🅵🆃🅿🆄🅻🅻🅴🆁 v1
 
