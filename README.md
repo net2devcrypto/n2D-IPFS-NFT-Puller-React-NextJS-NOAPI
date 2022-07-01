@@ -1,11 +1,6 @@
 # n2d-nftpuller
 💥💥A React - NextJS NFT IPFS CID Metadata Puller for Image Display - NO Private API Required 🥳🥳
 
-
-█▀▀▄ █▀▀ ▀▀█▀▀ █▀█ █▀▀▄ █▀▀ ▀█░█▀ 
-█░░█ █▀▀ ░░█░░ ░▄▀ █░░█ █▀▀ ░█▄█░ 
-▀░░▀ ▀▀▀ ░░▀░░ █▄▄ ▀▀▀░ ▀▀▀ ░░▀░░
-
 🅽🅵🆃🅿🆄🅻🅻🅴🆁 v1
 
 A React - NextJS NFT IPFS CID Metadata Puller
@@ -30,9 +25,6 @@ Github @net2devcrypto
 Please donate to: net2dev.eth
 
 Go to the settings.js file and update accordingly:
-
-█▀ █▀▀ ▀█▀ ▀█▀ █ █▄░█ █▀▀ █▀
-▄█ ██▄ ░█░ ░█░ █ █░▀█ █▄█ ▄█
 
     /*
     Input the NFT Contract Address
