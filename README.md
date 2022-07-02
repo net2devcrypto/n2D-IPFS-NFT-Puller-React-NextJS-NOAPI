@@ -17,11 +17,7 @@ TO USE,
     
 1- Install Required Dependencies:
 
-npm i ethers
-
-npm i axios
-
-npm i @nextui-org/react
+npm i ethers axios @nextui-org/react
 
 2- add the n2dpuller folder in your project folder:
 
