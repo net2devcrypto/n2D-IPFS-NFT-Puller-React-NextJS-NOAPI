@@ -7,7 +7,7 @@ import { Card, Container, Text, Grid, Button, Image } from '@nextui-org/react';
 import { nftContract, key, displayAmount, mainnet } from './settings';
 
 
-export default function nftPuller() {
+export default function NftPuller() {
   const [nfts, setNfts] = useState([])
   const [loadingState, setLoadingState] = useState('not-loaded')
   useEffect(() => {
