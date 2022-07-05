@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import React from "react";
 import axios from 'axios';
 import NFTCollection from './NFTCollection.json';
-import { Card, Container, Text, Grid, Button } from '@nextui-org/react';
+import { Card, Container, Text, Grid, Button, Image } from '@nextui-org/react';
 import { nftContract, key, displayAmount, mainnet } from './settings';
 
 
@@ -78,7 +78,7 @@ if (loadingState === 'loaded' && !nfts.length)
         {
         nfts.map((nft, i) => {
           <div>
-          <Image src={nft.img} key={i}/>
+          <Card.Image src={nft.img} key={i}/>
         <h2>No Collections Retrieved</h2>
         </div>
 })}
